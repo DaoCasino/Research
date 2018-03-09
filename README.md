@@ -4,7 +4,7 @@
 |--------|----------|--------------------|-------|--------|
 | [1](/readme.md)      | Protocol | Standardization of research | Noxon | Draft  |
 | [14](/0014.md)      | Game | Usage of WebVR library to demonstrate VR developers the capabilities of DAO.Casino DClib | Noxon | Draft  |
-| [24](/0024.md)      | Protocol | Протокол мультплеера для карточных игр | Sk0m0r0h | Prototyping |
+
 
 
 # What is Research? 
